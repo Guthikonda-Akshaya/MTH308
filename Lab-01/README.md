@@ -1,4 +1,4 @@
- Assignment 01
+ Lab 01
 
 Numerical Analysis and Scientific Computing (MTH308)
 
